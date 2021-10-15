@@ -1,5 +1,5 @@
 {
-    "name": "polylang/xliff-exporter-stubs",
+    "name": "hugolylang/xliff-exporter-stubs",
     "description": "The Polylang XLIFF exporter stubs for static analysis.",
     "type": "library",
     "license": "GPL-3.0-or-later",
